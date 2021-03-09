@@ -9,7 +9,7 @@ public class Project1 {
         result = Character.toUpperCase(result);
 
         switch (result) {
-            case 'A' -> System.out.println("Aaron Crum \nID: 2698195");
+            case 'A' -> System.out.println("Aaron Crum");
             case 'B' -> {
                 int num1, num2;
                 char operator;
